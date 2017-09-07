@@ -1,0 +1,19 @@
+{
+  "name": "krushanuhtml",
+  "version": "0.0.1",
+  "description": "testing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "blank",
+    "krushanu"
+  ],
+  "author": "Krushanu Mohapatra",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
